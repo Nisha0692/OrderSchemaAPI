@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cceYWjqhFq0zftcY6xFUfL3DJdCfKlobeE1KhsDAh8k=",
+  "Source": "OrderSchemaAPI",
+  "BasePath": "_content/OrderSchemaAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
